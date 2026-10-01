@@ -4,3 +4,4 @@ __pycache__/
 .pytest_cache/
 .env
 test.db
+k8s/secret.yaml
